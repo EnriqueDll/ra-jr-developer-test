@@ -1,0 +1,9 @@
+.Header__logo {
+    display: flex;
+    align-items: center;
+}
+
+.Header__logo__img {
+    width: auto;
+    height: 70px;
+}
